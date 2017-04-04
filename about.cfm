@@ -20,7 +20,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                <img class="img-responsive" src="assets/fam.jpg" alt="">
             </div>
             <div class="col-md-6">
                 <h2>About Me</h2>
